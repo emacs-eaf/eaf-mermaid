@@ -64,7 +64,7 @@
     "safer-buffer": "^2.1.2",
     "scope-css": "^1.2.1",
     "slugify": "^1.6.0",
-    "source-map": "^0.6.1",
+    "source-map": "^0.7.3",
     "strip-css-comments": "^3.0.0",
     "source-map-support": "^0.5.19",
     "terser": "^4.6.6",
