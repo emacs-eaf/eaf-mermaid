@@ -65,7 +65,7 @@
     "scope-css": "^1.2.1",
     "slugify": "^1.6.0",
     "source-map": "^0.7.3",
-    "strip-css-comments": "^3.0.0",
+    "strip-css-comments": "^4.1.0",
     "source-map-support": "^0.5.19",
     "terser": "^4.6.6",
     "try-catch": "^2.0.1",
