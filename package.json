@@ -56,7 +56,7 @@
     "mermaid": "^8.4.8",
     "minify": "^4.1.3",
     "moment-mini": "^2.24.0",
-    "ms": "^2.1.2",
+    "ms": "^2.1.3",
     "no-case": "^2.3.2",
     "param-case": "^2.1.1",
     "relateurl": "^0.2.7",
