@@ -7,7 +7,7 @@
     "buffer-from": "^1.1.1",
     "camel-case": "^3.0.0",
     "clean-css": "^5.1.5",
-    "commander": "^2.20.3",
+    "commander": "^8.1.0",
     "crypto-random-string": "^3.2.0",
     "css-b64-images": "^0.2.5",
     "d3": "^5.15.0",
