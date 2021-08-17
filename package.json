@@ -68,7 +68,7 @@
     "strip-css-comments": "^4.1.0",
     "source-map-support": "^0.5.19",
     "terser": "^5.7.1",
-    "try-catch": "^2.0.1",
+    "try-catch": "^3.0.0",
     "try-to-catch": "^3.0.0",
     "type-fest": "^0.8.1",
     "uglify-js": "^3.14.1",
