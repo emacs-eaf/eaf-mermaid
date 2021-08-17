@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "buffer-from": "^1.1.1",
-    "camel-case": "^3.0.0",
+    "camel-case": "^4.1.2",
     "clean-css": "^5.1.5",
     "commander": "^8.1.0",
     "crypto-random-string": "^4.0.0",
