@@ -20,9 +20,9 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-from PyQt5 import QtCore
-from PyQt5.QtCore import QUrl
-from PyQt5.QtCore import QFileSystemWatcher
+from PyQt6 import QtCore
+from PyQt6.QtCore import QUrl
+from PyQt6.QtCore import QFileSystemWatcher
 from core.browser import BrowserBuffer
 import markdown
 

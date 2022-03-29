@@ -12,7 +12,7 @@ License: GNU GPLv3
 
 from markdown.extensions import Extension
 from markdown.preprocessors import Preprocessor
-from PyQt5.QtCore import QUrl
+from PyQt6.QtCore import QUrl
 
 import re
 import os
