@@ -1,10 +1,10 @@
 # Note
 This app's feature is replace by [eaf-markdown-previewer](https://github.com/emacs-eaf/eaf-markdown-previewer), this app don't need install, But code is worth learning
 
-# EAF Mermaid
+### EAF Mermaid
 This repository provides the EAF Mermaid application for the [Emacs Application Framework](https://github.com/emacs-eaf/emacs-application-framework).
 
-# Install
+### Install
 [Install EAF](https://github.com/emacs-eaf/emacs-application-framework#install) first, then add below code in your emacs config:
 
 ```Elisp
